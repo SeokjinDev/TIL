@@ -4,4 +4,5 @@
 ### Problem Solving
 * SolvedAC
 ### Raspberry Pi
+* Error
 ### Database
