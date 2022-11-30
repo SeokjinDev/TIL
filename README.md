@@ -6,3 +6,8 @@
 ### Raspberry Pi
 * [Error](https://github.com/SeokjinKim00/TIL/tree/master/RaspberryPi/Error)
 ### Database
+* [MySQL](https://github.com/SeokjinKim00/TIL/tree/master/Database/MySQL)
+
+## Commit Rule
+* Post
+* Edit
