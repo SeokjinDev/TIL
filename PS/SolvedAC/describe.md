@@ -11,13 +11,15 @@
 * [1927: 최소 힙](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/backjoon_1927.py)
 
 ### [Silver 3](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%203)
-* [1431: 시리얼 번호](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%203/baekjoon_1431.py)
-* [1788: 피보나치 수의 확장](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%203/baekjoon_1788.py)
+* [1431: 시리얼 번호](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%203/1431.py)
+* [1788: 피보나치 수의 확장](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%203/1788.py)
 
 ### [Silver 4](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%204)
-* [1015: 수열 정렬](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%204/baekjoon_1015.py)
-* [1018: 체스판 다시 칠하기](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%204/baekjoon_1018.py)
-* [1026: 보물](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%204/baekjoon_1026.py)
+* [1015: 수열 정렬](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%204/1015.py)
+* [1018: 체스판 다시 칠하기](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%204/1018.py)
+* [1026: 보물](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%204/1026.py)
 
 ### [Silver 5](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%205)
-* [1384: 메시지](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%205/baekjoon_1384.py)
+* [1384: 메시지](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%205/1384.py)
+* [2167: 2차원 배열의 합](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%205/2167.py)
+* [4470: 줄번호](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%205/4470.py)
