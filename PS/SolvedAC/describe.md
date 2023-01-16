@@ -6,9 +6,10 @@
 
 ## Silver
 ### [Silver 2](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202)
-* [1138: 한 줄로 서기](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/backjoon_1138.py)
-* [1541: 잃어버린 괄호](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/backjoon_1541.py)
-* [1927: 최소 힙](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/backjoon_1927.py)
+* [1138: 한 줄로 서기](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/1138.py)
+* [1541: 잃어버린 괄호](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/1541.py)
+* [1927: 최소 힙](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/1927.py)
+* [18870: 좌표 압축](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/18870.py)
 
 ### [Silver 3](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%203)
 * [1431: 시리얼 번호](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%203/1431.py)
