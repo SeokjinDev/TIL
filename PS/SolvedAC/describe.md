@@ -13,6 +13,7 @@
 * [18870: 좌표 압축](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/18870.py)
 
 ### [Silver 3](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%203)
+* [1003: 피보나치 함수](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%203/1003.py)
 * [1431: 시리얼 번호](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%203/1431.py)
 * [1788: 피보나치 수의 확장](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%203/1788.py)
 
