@@ -5,6 +5,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjrwls1108)](https://solved.ac/tjrwls1108/)
 
 ## Silver
+### [Silver 1](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%201)
+* [1074: Z](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%201/1074.py)
 ### [Silver 2](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202)
 * [1138: 한 줄로 서기](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/1138.py)
 * [1406: 에디터](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/1406.py)
