@@ -12,6 +12,7 @@
 * [1406: 에디터](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/1406.py)
 * [1541: 잃어버린 괄호](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/1541.py)
 * [1927: 최소 힙](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/1927.py)
+* [11279: 최대 힙](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/11279.py)
 * [18870: 좌표 압축](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/18870.py)
 
 ### [Silver 3](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%203)
