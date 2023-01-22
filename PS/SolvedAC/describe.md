@@ -7,8 +7,11 @@
 ## Silver
 ### [Silver 1](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%201)
 * [1074: Z](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%201/1074.py)
+
 ### [Silver 2](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202)
 * [1138: 한 줄로 서기](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/1138.py)
+SolvedAC/Silver%202)
+* [1254: 팰린드롭 만들기](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/1254.py)
 * [1406: 에디터](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/1406.py)
 * [1541: 잃어버린 괄호](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/1541.py)
 * [1927: 최소 힙](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/1927.py)
