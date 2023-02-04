@@ -10,7 +10,6 @@
 
 ### [Silver 2](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202)
 * [1138: 한 줄로 서기](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/1138.py)
-SolvedAC/Silver%202)
 * [1254: 팰린드롭 만들기](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/1254.py)
 * [1260: DFS와 BFS](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/1260.py)
 * [1406: 에디터](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/1406.py)
