@@ -7,6 +7,7 @@
 ## Silver
 ### [Silver 1](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%201)
 * [1074: Z](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%201/1074.py)
+* [1697: 숨바꼭질](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%201/1697.py)
 
 ### [Silver 2](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202)
 * [1138: 한 줄로 서기](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%202/1138.py)
