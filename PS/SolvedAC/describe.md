@@ -24,6 +24,8 @@
 * [1003: 피보나치 함수](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%203/1003.py)
 * [1431: 시리얼 번호](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%203/1431.py)
 * [1788: 피보나치 수의 확장](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%203/1788.py)
+* [9095: 1, 2, 3 더하기](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%203/9095.py)
+* [9375: 1, 2, 3 더하기](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%203/9375.py)
 
 ### [Silver 4](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%204)
 * [1015: 수열 정렬](https://github.com/SeokjinKim00/TIL/blob/master/PS/SolvedAC/Silver%204/1015.py)
