@@ -1,9 +1,7 @@
-n = int(input())
-start, end = 0, n
-while start <= end:
-    mid = (start + end) // 2
-    if mid**2 < n:
-        start = mid + 1
-    else:
-        end = mid - 1
-print(start)
+n=int(input())
+s,e=0,n
+while s<=e:
+    m=(s+e)//2
+    if m**2<n:s=m+1
+    else:e=m-1
+print(s)
