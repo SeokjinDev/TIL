@@ -1,6 +1,8 @@
+import sys
+input = sys.stdin.readline
 while 1:
     try:
-        x = int(input()) * 10000000 # nm to cm
+        x = int(input()) * 10000000
         n = int(input())
         li = sorted([int(input()) for _ in range(n)])
         ans = []
