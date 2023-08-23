@@ -17,7 +17,6 @@ visited[r] = cnt
 while queue:
     data = queue.popleft()
     if visited[data] == 0:
-        cnt += 1
-        visited[data] = cnt
+        visited[data] = (cnt:=cnt+1)
         queue.extend(sorted(graph[data]))
 [print(v) for v in visited[1:]]
