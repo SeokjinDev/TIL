@@ -1,6 +1,5 @@
 n, m = map(int, input().split())
 ans = []
-
 def dfs(x, l, r):
     global ans
     if l == 0:
@@ -10,5 +9,5 @@ def dfs(x, l, r):
         dfs(i, l-1, r+[i])
 dfs(1, m, [])
 for an in ans:
-    [print(a, end=' ') for a in an]
+    for a in an: print(a, end=' ')
     print()
