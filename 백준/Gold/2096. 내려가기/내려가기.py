@@ -1,12 +1,7 @@
 n = int(input())
-maxData = [*map(int, input().split())]
-minData = [*maxData]
+d1 = d2 = [*map(int, input().split())]
 for i in range(n-1):
     data = [*map(int, input().split())]
-    maxData = [data[0] + max(maxData[:2]),
-               data[1] + max(maxData[:]),
-               data[2] + max(maxData[1:])]
-    minData = [data[0] + min(minData[:2]),
-               data[1] + min(minData[:]),
-               data[2] + min(minData[1:])]
-print(max(maxData), min(minData))
+    d1 = [data[0] + max(d1[:2]), data[1] + max(d1[:]), data[2] + max(d1[1:])]
+    d2 = [data[0] + min(d2[:2]), data[1] + min(d2[:]), data[2] + min(d2[1:])]
+print(max(d1), min(d2))
