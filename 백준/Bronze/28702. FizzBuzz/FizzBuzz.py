@@ -1,14 +1,10 @@
-r = 0
 for i in range(3):
-    a = input()
-    if a.isnumeric():
+    if (a:=input()).isnumeric():
         r = int(a)+(3-i)
-
-if r % 3 == 0 and r % 5 == 0:
-    print("FizzBuzz")
-elif r % 3 == 0:
-    print("Fizz")
-elif r % 5 == 0:
-    print("Buzz")
+if r % 3 == 0 or r % 5 == 0:
+    if r % 3 == 0:
+        print("Fizz", end='')
+    if r % 5 == 0:
+        print("Buzz", end='')
 else:
     print(r)
