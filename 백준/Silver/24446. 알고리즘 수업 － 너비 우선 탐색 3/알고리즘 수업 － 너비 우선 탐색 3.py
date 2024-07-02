@@ -13,7 +13,7 @@ visited = [-1] * (n+1)
 visited[r] = 0
 while q:
     u = q.popleft()
-    for v in sorted(graph[u], reverse=True):
+    for v in graph[u]:
         if visited[v] == -1:
             visited[v] = visited[u]+1
             q.append(v)
