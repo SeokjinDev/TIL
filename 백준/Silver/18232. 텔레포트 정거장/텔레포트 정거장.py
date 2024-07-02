@@ -12,19 +12,19 @@ for _ in range(m):
     graph[b].append(a)
     
 q = deque([s])
-visited = [inf] * (n+1)
-visited[s] = 0
+v = [inf] * (n+1)
+v[s] = 0
 while q:
     d = q.popleft()
     if d == e:
-        print(visited[d])
+        print(v[d])
         break
     for i in [-1, 1]:
-        if 0 < d+i <= n and visited[d+i] > visited[d]+1:
-            visited[d+i] = visited[d]+1
+        if 0 < d+i <= n and v[d+i] > v[d]+1:
+            v[d+i] = v[d]+1
             q.append(d+i)
     if graph[d]:
         for g in graph[d]:
-            if visited[g] > visited[d]+1:
-                visited[g] = visited[d]+1
+            if v[g] > v[d]+1:
+                v[g] = v[d]+1
                 q.append(g)
