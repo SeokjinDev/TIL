@@ -1,24 +1,22 @@
+from collections import defaultdict
 def solution(genres, plays):
-    sD, gD, m = {}, {}, []
+    playCounter, genreCounter, music = defaultdict(int), defaultdict(int), []
     answer = []
-    for i, g, p in zip(range(len(genres)), genres, plays):
-        if sD.get(g): sD[g] += p
-        else: sD[g] = p
-        m.append([i, g, p])
+    for idx, play, genre in zip(range(len(genres)), plays, genres):
+        playCounter[genre] += play
+        music.append([idx, play, genre])
     
-    m = sorted(m, key=lambda x: x[0], reverse=True)
-    m = sorted(m, key=lambda x: x[2])
-    m = sorted(m, key=lambda x: sD[x[1]])
-    while m:
-        x = m.pop()
-        if gD.get(x[1]):
-            if gD[x[1]] < 2:
-                gD[x[1]] += 1
-            else:
-                continue
+    # 정렬을 여러 번 할 경우 후순위 조건부터 정렬하기
+    music = sorted(music, reverse = True) # 추후 pop으로 추출하므로 반대로 정렬 / 0번을 기준으로 정렬
+    music = sorted(music, key=lambda x: x[1]) # 플레이 순으로 오름차순
+    music = sorted(music, key=lambda x: playCounter[x[2]]) # 장르별 플레이 순으로 오름차순
+    
+    while music:
+        data = music.pop()
+        if genreCounter[data[2]] < 2:
+            genreCounter[data[2]] += 1
         else:
-            gD[x[1]] = 1
-        answer.append(x[0])
-    
-    
+            continue
+        answer.append(data[0])
+
     return answer
