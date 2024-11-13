@@ -1,6 +1,6 @@
-def solution(phone_book):
-    pb = sorted(phone_book)
-    for i in range(len(pb)-1):
-        if pb[i] == pb[i+1][:len(pb[i])]:
+def solution(phone_book:list):
+    phone_book.sort()
+    for i, j in zip(range(len(phone_book)), range(1, len(phone_book))):
+        if phone_book[j].startswith(phone_book[i]):
             return False
     return True
